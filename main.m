@@ -11,8 +11,8 @@ The code plots the GPS signal, calculates the Fourier decomposition and
 calculates characteristic quantities of the GPS signal for both static and
 circle tests.
 The code presented here is only for base accuracy for 2 metres because it
-is repetetive - however the while uncommented code can be found in raw code
-folder.
+is repetetive - however the while uncommented code can be found in raw_code
+folder along with data.mat from all the tests.
 The purpose of this file to explain the mode of work in simple way.
 %}
 
